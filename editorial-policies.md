@@ -19,7 +19,7 @@ Example:  ί̈σχειν (urn:cts:greekLit:tlg0012.tlg001:9.352)
 [![diaresis][diaeresis]][1]
 
 
-[diaeresis]: images/diaeresis.jpg
+[diaeresis]: ../images/diaeresis.jpg
 
 [1]: http://beta.hpcc.uh.edu/tomcat/hmt/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA118VN-0621@0.4855,0.5409,0.0721,0.0301
 
@@ -36,7 +36,7 @@ Example: δαίνῡ  {urn:cts:greekLit:tlg0012.tlg001:9.70}
 
 [2]: http://beta.hpcc.uh.edu/tomcat/hmt/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA113RN-0285@0.1832,0.4222,0.0741,0.0233
 
-[macron]: images/macron.jpg
+[macron]: ../images/macron.jpg
 
 brevia
 : Use Unicode "Combining Breve" character
@@ -46,7 +46,7 @@ Example: ἄ̆ν {urn:cts:greekLit:tlg0012.tlg001:9.101}
 
 [![breve][breve]][3]
 
-[breve]: images/breve.jpg
+[breve]: ../images/breve.jpg
 
 [3]: http://beta.hpcc.uh.edu/tomcat/hmt/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA113VN-0616@0.7057,0.5462,0.029,0.0203
 
@@ -60,7 +60,7 @@ Example: ἄλλ' ἐν {urn:cts:greekLit:tlg0012.tlg001:9.235}
 
 [![elision][elision]][4]
 
-[elision]: images/elision.jpg
+[elision]: ../images/elision.jpg
 
 [4]: http://beta.hpcc.uh.edu/tomcat/hmt/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA116VN-0619@0.5485,0.2201,0.0561,0.0278
 
@@ -75,7 +75,7 @@ Example: μετα δ`᾽ ἔσσεται
 
 !["floating" accent][float][5]
 
-[float]: images/float.jpg
+[float]: ../images/float.jpg
 
 [5]: http://beta.hpcc.uh.edu/tomcat/hmt/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA114RN-0286@0.3333,0.6371,0.1221,0.0233
 
@@ -190,7 +190,7 @@ Example:
 [100]: http://beta.hpcc.uh.edu/tomcat/hmt/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA104RN-0105@0.5386,0.1585,0.0224,0.0174
 
 
-[unclear]: images/unclear.jpg
+[unclear]: ../images/unclear.jpg
 
 
 Missing
@@ -214,7 +214,7 @@ Example
 
 [![deletion][deletion]][102]
 
-[deletion]: images/deletion.jpg
+[deletion]: ../images/deletion.jpg
 
 [102]: http://beta.hpcc.uh.edu/tomcat/hmt/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA054RN-0055@0.3682,0.1297,0.0301,0.0113
 
@@ -231,7 +231,7 @@ Example:
 
 [103]: http://beta.hpcc.uh.edu/tomcat/hmt/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA051RN-0052@0.5045,0.7325,0.031,0.021
 
-[added]: images/added.jpg
+[added]: ../images/added.jpg
 
 
 Alternate readings offered above the line
@@ -244,7 +244,7 @@ Example
 
 [![alternative text][alt]][104]
 
-[alt]: images/alt.jpg
+[alt]: ../images/alt.jpg
 
 
 [104]: http://beta.hpcc.uh.edu/tomcat/hmt/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA058RN-0059@0.3844,0.5364,0.1021,0.0293
@@ -264,7 +264,7 @@ Example: accent corrected by the original scribe
 [![correction][corr]][105]
 
 
-[corr]: images/corr.jpg
+[corr]: ../images/corr.jpg
 
 [105]: http://beta.hpcc.uh.edu/tomcat/hmt/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA058RN-0059@0.5245,0.275,0.0871,0.0308
 
@@ -282,7 +282,7 @@ Example:
 
 [106]:  http://beta.hpcc.uh.edu/tomcat/hmt/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA057RN-0058@0.7755,0.4663,0.0263,0.0159
 
-[os]: images/os.jpg
+[os]: ../images/os.jpg
 
 καί and ὅτι
 : Regular abbreviated forms of the whole words καί and ὅτι are treated as variant letter forms, and are not specially marked in any way
@@ -294,9 +294,9 @@ Examples:
 
 [![oti][oti]][108]
 
-[oti]: images/oti.jpg
+[oti]: ../images/oti.jpg
 
-[kai]: images/kai.jpg
+[kai]: ../images/kai.jpg
 
 [107]: http://beta.hpcc.uh.edu/tomcat/hmt/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA056RN-0057@0.621,0.5696,0.0152,0.0137
 
@@ -315,14 +315,14 @@ Example
 
 [109]: http://beta.hpcc.uh.edu/tomcat/hmt/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA057RN-0058@0.453,0.7399,0.0224,0.0135
 
-[houtos]: images/houtos.jpg
+[houtos]: ../images/houtos.jpg
 
 
     <choice><abbr>περ</abbr><expan>πάτερ</expan></choice>
 
 [![abbr][pater]][110]
 
-[pater]: images/pater.jpg
+[pater]: ../images/pater.jpg
 
 [110]: http://beta.hpcc.uh.edu/tomcat/hmt/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA057RN-0058@0.3183,0.293,0.045,0.024
 
@@ -349,7 +349,7 @@ identifiable quotations
 [![quotation][quot]][111]
 
 
-[quot]: images/quot.jpg
+[quot]: ../images/quot.jpg
 
 [111]:  http://beta.hpcc.uh.edu/tomcat/hmt/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA051RN-0052@0.5696,0.5064,0.1552,0.0195
 
