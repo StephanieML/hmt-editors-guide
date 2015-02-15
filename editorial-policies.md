@@ -355,20 +355,5 @@ identifiable quotations
 
 ## Appendix:  other references ##
 
+Reference tables for identifiers for personal names and place names, are maintained in the `hmt-authlists` [github repository](https://github.com/homermultitext/hmt-authlists):  see the [`hmt-authlists` web page](http://homermultitext.github.io/hmt-authlists).
 
-Reference table for identifiers for personal names: 
-[https://www.google.com/fusiontables/DataSource?docid=1fcfeXQWcChl-EiSt9vNHMfXYGSM3ETn5ZwTKF0Y#rows:id=1][pers]
-
-
-Reference table for identifiers for place names:
-[https://www.google.com/fusiontables/DataSource?docid=1M7FKJjXaK4WQVL85zhi30TsWHeF-XSMVfQ3bYz8#rows:id=1][place]
-
-
-
-[pers]: https://www.google.com/fusiontables/DataSource?docid=1fcfeXQWcChl-EiSt9vNHMfXYGSM3ETn5ZwTKF0Y#rows:id=1
-
-
-
-
-
-[place]: https://www.google.com/fusiontables/DataSource?docid=1M7FKJjXaK4WQVL85zhi30TsWHeF-XSMVfQ3bYz8#rows:id=1
